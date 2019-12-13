@@ -1,0 +1,149 @@
+#ejercicio01
+nombre="karen"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 5
+
+#ejercicio02
+nombre="carlos"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 6
+
+#ejercicio03
+nombre="paul"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 4
+
+#ejercicio04
+nombre="computadora"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 11
+
+#ejercicio05
+nombre="maquina"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 7
+
+#ejercicio06
+nombre="mirian"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 6
+
+#ejercicio07
+nombre="carta"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 5
+
+#ejercicio08
+nombre="wilmer"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 6
+
+#ejercicio09
+nombre="calculadora"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 11
+
+#ejercicio10
+nombre="malcriado"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 9
+
+#ejercicio11
+nombre="relog"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 5
+
+#ejercicio12
+nombre="oso"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 3
+
+#ejercicio13
+nombre="marisol"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 7
+
+#ejercicio14
+nombre="karla"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 5
+
+#ejercicio15
+nombre="pulmon"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 6
+
+#ejercicio16
+nombre="pista"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 5
+
+#ejercicio17
+nombre="carros"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 6
+
+#ejercicio18
+nombre="llantas"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 7
+
+#ejercicio19
+nombre="cargador"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 8
+
+#ejercicio20
+nombre="celular"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 7
+
+#ejercicio21
+nombre="cosina"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 6
+
+#ejercicio22
+nombre="teclado"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 7
+
+#ejercicio23
+nombre="hojas"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 5
+
+#ejercicio24
+nombre="refrijider"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 10
+
+#ejercicio25
+nombre="libros"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 6
+
+#ejercicio26
+nombre="baño"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 4
+
+#ejercicio27
+nombre="temperas"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 8
+
+#ejercicio28
+nombre="pantalla"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 8
+
+#ejercicio29
+nombre="parlantes"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 9
+
+#ejercicio30
+nombre="caminata"
+long=len(nombre)
+print("la longitud del nombre es:",long)  #mostrar 8
