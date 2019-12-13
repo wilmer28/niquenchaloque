@@ -1,0 +1,179 @@
+#ejercicio01
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("a"))  #mostrar "38"
+
+#ejercicio02
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("e"))  #mostrar "43"
+
+#ejercicio03
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("i"))  #mostrar "58"
+
+#ejercicio04
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("o"))  #mostrar "60"
+
+#ejercicio05
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("u"))  #mostrar "55"
+
+#ejercicio06
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("A"))  #mostrar "10"
+
+#ejercicio07
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("Z"))  #mostrar "36"
+
+#ejercicio08
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("O"))  #mostrar "25"
+
+#ejercicio09
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("U"))  #mostrar "31"
+
+#ejercicio10
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("j"))  #mostrar "56"
+
+#ejercicio11
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("s"))  #mostrar "41"
+
+#ejercicio12
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("h"))  #mostrar "53"
+
+#ejercicio13
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("P"))  #mostrar "26"
+
+#ejercicio14
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("k"))  #mostrar "59"
+
+#ejercicio15
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("ñ"))  #mostrar "63"
+
+#ejercicio16
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("B"))  #mostrar "11"
+
+#ejercicio17
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("7"))  #mostrar "6"
+
+#ejercicio18
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("p"))  #mostrar "62"
+
+#ejercicio19
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("q"))  #mostrar "37"
+
+#ejercicio20
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("n"))  #mostrar "54"
+
+#ejercicio21
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("m"))  #mostrar "57"
+
+#ejercicio22
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("Q"))  #mostrar "27"
+
+#ejercicio23
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("Ñ"))  #mostrar "24"
+
+#ejercicio24
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("5"))  #mostrar "4"
+
+#ejercicio25
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("E"))  #mostrar "14"
+
+#ejercicio26
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("t"))  #mostrar "49"
+
+#ejercicio27
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("c"))  #mostrar "45"
+
+#ejercicio28
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("o"))  #mostrar "60"
+
+#ejercicio29
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("f"))  #mostrar "47"
+
+#ejercicio30
+#              10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="1234567890ABCDEFGHIJKLMNÑOPQRSTUVWXYZqazwsxedcrfvtgbyhnujmikolpñ"
+print(msg.find("F"))  #mostrar "15"
