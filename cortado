@@ -1,0 +1,179 @@
+#ejercicio01
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[0:3])
+
+#ejercicio02
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[17:22])
+
+#ejercicio03
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[4:15])
+
+#ejercicio04
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[28:34])
+
+#ejercicio05
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[::-1])
+
+#ejercicio06
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[15:20])
+
+#ejercicio07
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[25:28])
+
+#ejercicio08
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[11:33])
+
+#ejercicio09
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[4:-1])
+
+#ejercicio10
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[0:22])
+
+#ejercicio11
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[24:29])
+
+#ejercicio12
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[1:4])
+
+#ejercicio13
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[::15])
+
+#ejercicio14
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[9:6:3])
+
+#ejercicio15
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[8:19])
+
+#ejercicio16
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[6:22])
+
+#ejercicio17
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[20:30])
+
+#ejercicio18
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[15:30])
+
+#ejercicio19
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[28:35])
+
+#ejercicio20
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[9:28])
+
+#ejercicio21
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[11:17])
+
+#ejercicio22
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[3:16])
+
+#ejercicio23
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[25:32])
+
+#ejercicio24
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[4:29])
+
+#ejercicio025
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[5:20])
+
+#ejercicio26
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[17:18])
+
+#ejercicio27
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[2:19])
+
+#ejercicio28
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[5:23])
+
+#ejercicio29
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[0:17])
+
+#ejercicio30
+#              10        20        30
+#    01234567890123456789012345678901234
+msg="los trabajadores cobran los sabados"
+print(msg[10:18])
