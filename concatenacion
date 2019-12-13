@@ -1,0 +1,179 @@
+#ejercicio01
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[23]+msg[8]+msg[11]+msg[12]+msg[4]+msg[18])  #mostrar "wilmer"
+
+#ejercicio02
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[12]+msg[4]+msg[19]+msg[0])  #mostrar "mesa"
+
+#ejercicio03
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[2]+msg[15]+msg[12]+msg[16]+msg[21]+msg[20]+msg[0]+msg[3]+msg[15]+msg[18]+msg[0])  #mostrar "computadora"
+
+#ejercicio04
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[2]+msg[21]+msg[8]+msg[3]+msg[0]+msg[3]+msg[15])  #mostrar "cuidado"
+
+#ejercicio05
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[16]+msg[4]+msg[11]+msg[8]+msg[6]+msg[18]+msg[15])  #mostrar "peligro"
+
+#ejercicio06
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[16]+msg[21]+msg[4]+msg[18]+msg[20]+msg[0])  #mostrar "puerta"
+
+#ejercicio07
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[2]+msg[4]+msg[11]+msg[21]+msg[11]+msg[0]+msg[18])  #mostrar "celular"
+
+#ejercicio08
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[11]+msg[4]+msg[13]+msg[20]+msg[4]+msg[19])  #mostrar "lentes"
+
+#ejercicio09
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[26]+msg[0]+msg[16]+msg[0]+msg[20]+msg[15])  #mostrar "zapato"
+
+#ejercicio10
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[20]+msg[4]+msg[11]+msg[4]+msg[22]+msg[8]+msg[19]+msg[15]+msg[18])  #mostrar "televisor"
+
+#ejercicio11
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[4]+msg[19]+msg[2]+msg[15]+msg[1]+msg[0])  #mostrar "escoba"
+
+#ejercicio12
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[7]+msg[8]+msg[11]+msg[15])  #mostrar "hilo"
+
+#ejercicio13
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[16]+msg[15]+msg[11]+msg[15])  #mostrar "polo"
+
+#ejercicio14
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[2]+msg[0]+msg[18]+msg[20]+msg[4]+msg[18]+msg[0])  #mostrar "cartera"
+
+#ejercicio15
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[19]+msg[8]+msg[11]+msg[11]+msg[0])  #mostrar "silla"
+
+#ejercicio16
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[11]+msg[0]+msg[16]+msg[8]+msg[26])  #mostrar "lapiz"
+
+#ejercicio17
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[16]+msg[0]+msg[13]+msg[20]+msg[0]+msg[11]+msg[15]+msg[13])  #mostrar "pantalon"
+
+#ejercicio18
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[2]+msg[0]+msg[12]+msg[0])  #mostrar "cama"
+
+#ejercicio19
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[11]+msg[8]+msg[1]+msg[18]+msg[15]+msg[19])  #mostrar "libros"
+
+#ejercicio20
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[2]+msg[0]+msg[18]+msg[6]+msg[0]+msg[3]+msg[15]+msg[18])  #mostrar "cargador"
+
+#ejercicio21
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[3]+msg[4]+msg[3]+msg[15]+msg[19])  #mostrar "dedos"
+
+#ejercicio22
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[16]+msg[4]+msg[11]+msg[21]+msg[2]+msg[7]+msg[4])  #mostrar "peluche"
+
+#ejercicio23
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[16]+msg[11]+msg[0]+msg[20]+msg[0]+msg[13]+msg[15])  #mostrar "platano"
+
+#ejercicio24
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[16]+msg[0]+msg[13]+msg[20]+msg[0]+msg[11]+msg[11]+msg[0])  #mostrar "pantallla"
+
+#ejercicio25
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[2]+msg[0]+msg[18]+msg[20]+msg[0])  #mostrar "carta"
+
+#ejercicio26
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[16]+msg[8]+msg[4]+msg[18]+msg[13]+msg[0])  #mostrar "pierna"
+
+#ejercicio27
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[5]+msg[15]+msg[20]+msg[15])  #mostrar "foto"
+
+#ejercicio28
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[20]+msg[4]+msg[2]+msg[11]+msg[0]+msg[3]+msg[15])  #mostrar "teclado"
+
+#ejercicio29
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[11]+msg[4]+msg[2]+msg[7]+msg[4])  #mostrar "leche"
+
+#ejercicio30
+#              10        20
+#    012345678901234567890123456
+msg="abcdefghijklmnñopqrstuvwxyz"
+print(msg[2]+msg[15]+msg[2]+msg[15]+msg[3]+msg[18]+msg[8]+msg[11]+msg[15])  #mostrar "cocodrilo"
