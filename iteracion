@@ -1,0 +1,159 @@
+#ejercicio01
+str="wilmer"
+for letra in str:
+    print(letra)    #mostrar wilmer en forma vertical
+
+#ejercicio02
+str="paul"
+for letra in str:
+    print(letra)    #mostrar paul en forma vertical
+
+#ejercicio03
+str="maestra"
+for letra in str:
+    print(letra)    #mostrar maestra en forma vertical
+
+#ejercicio04
+str="guitarra"
+for letra in str:
+    print(letra)    #mostrar guitarra en forma vertical
+
+#ejercicio05
+str="maquina"
+for letra in str:
+    print(letra)    #mostrar maquina en forma vertical
+
+#ejercicio06
+str="aeropuerto"
+for letra in str:
+    print(letra)    #mostrar aereopuerto en forma vertical
+
+#ejercicio07
+str="madrina"
+for letra in str:
+    print(letra)    #mostrar madrina en forma vertical
+
+#ejercicio08
+str="pokemon"
+for letra in str:
+    print(letra)    #mostrar pokemon en forma vertical
+
+#ejercicio09
+str="celular"
+for letra in str:
+    print(letra)    #mostrar celular en forma vertical
+
+#ejercicio10
+str="google"
+for letra in str:
+    print(letra)    #mostrar google en forma vertical
+
+#ejercicio11
+str="steban"
+for letra in str:
+    print(letra)    #mostrar steban en forma vertical
+
+#ejercicio12
+str="cuchara"
+for letra in str:
+    print(letra)    #mostrar cuchara en forma vertical
+
+#ejercicio13
+str="malcriada"
+for letra in str:
+    print(letra)    #mostrar malcriada en forma vertical
+
+#ejercicio14
+str="marisol"
+for letra in str:
+    print(letra)    #mostrar marisol en forma vertical
+
+#ejercicio15
+str="edificio"
+for letra in str:
+    print(letra)    #mostrar edificio en forma vertical
+
+#ejercicio16
+str="jose"
+for letra in str:
+    print(letra)    #mostrar jose en forma vertical
+
+#ejercicio17
+str="pantalon"
+for letra in str:
+    print(letra)    #mostrar pantalon en forma vertical
+
+#ejercicio18
+str="corbata"
+for letra in str:
+    print(letra)    #mostrar corbata en forma vertical
+
+#ejercicio19
+str="mochila"
+for letra in str:
+    print(letra)    #mostrar mochila en forma vertical
+
+#ejercicio20
+str="cafe"
+for letra in str:
+    print(letra)    #mostrar cafe en forma vertical
+
+#ejercicio21
+str="tarola"
+for letra in str:
+    print(letra)    #mostrar tarola en forma vertical
+
+#ejercicio22
+str="huawei"
+for letra in str:
+    print(letra)    #mostrar huawei en forma vertical
+
+#ejercicio21
+str="edwin"
+for letra in str:
+    print(letra)    #mostrar edwin en forma vertical
+
+#ejercicio22
+str="elefante"
+for letra in str:
+    print(letra)    #mostrar elefante en forma vertical
+
+#ejercicio23
+str="windows"
+for letra in str:
+    print(letra)    #mostrar windows en forma vertical
+
+#ejercicio24
+str="leche"
+for letra in str:
+    print(letra)    #mostrar leche en forma vertical
+
+#ejercicio25
+str="mesa"
+for letra in str:
+    print(letra)    #mostrar mesa en forma vertical
+
+#ejercicio26
+str="libros"
+for letra in str:
+    print(letra)    #mostrar libros en forma vertical
+
+#ejercicio27
+str="kinua"
+for letra in str:
+    print(letra)    #mostrar kinua en forma vertical
+
+#ejercicio28
+str="lampara"
+for letra in str:
+    print(letra)    #mostrar lampara en forma vertical
+
+#ejercicio29
+str="resaltador"
+for letra in str:
+    print(letra)    #mostrar resaltador en forma vertical
+
+#ejercicio30
+str="biblioteca"
+for letra in str:
+    print(letra)    #mostrar biblioteca en forma vertical
