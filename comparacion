@@ -1,0 +1,179 @@
+#ejercicio01
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("f"=="b")  #mostrar "false"
+
+#ejercicio02
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("q"!="a")  #mostrar "true"
+
+#ejercicio03
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("f"<"5")  #mostrar "false"
+
+#ejercicio04
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("x">"4")  #mostrar "true"
+
+#ejercicio05
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("g">"l")  #mostrar "false"
+
+#ejercicio06
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("5"<"cr")  #mostrar "true"
+
+#ejercicio07
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("ñ">"nu")  #mostrar "true"
+
+#ejercicio08
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("d">"90")  #mostrar "true"
+
+#ejercicio09
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("23">"k")  #mostrar "false"
+
+#ejercicio10
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("zw">"nm")  #mostrar "true"
+
+#ejercicio11
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("9"<"o")  #mostrar "true"
+
+#ejercicio12
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("carlos">"pepe")  #mostrar "false"
+
+#ejercicio13
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("cama2"=="lapiz")  #mostrar "false"
+
+#ejercicio14
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("oso"<"57")  #mostrar "false"
+
+#ejercicio15
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("44">"yh")  #mostrar "false"
+
+#ejercicio16
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("bebe"=="lentes")  #mostrar "false"
+
+#ejercicio17
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("feo"!="ui")  #mostrar "true"
+
+#ejercicio18
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("9782">"64041")  #mostrar "true"
+
+#ejercicio19
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("o0"<"g7")  #mostrar "false"
+
+#ejercicio20
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("yuca">"34")  #mostrar "true"
+
+#ejercicio21
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("7890">"loro")  #mostrar "false"
+
+#ejercicio22
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("pepe">"carlos")  #mostrar "true"
+
+#ejercicio23
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("foca"<"sapo")  #mostrar "true"
+
+#ejercicio24
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("kiko">"dedo")  #mostrar "true"
+
+#ejercicio25
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("23carlos"<"esteban")  #mostrar "true"
+
+#ejercicio26
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("98mesa">"celular")  #mostrar "false"
+
+#ejercicio27
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("12wilmer"<"niño")  #mostrar "true"
+
+#ejercicio28
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("lapicero"<"lapiz")  #mostrar "true"
+
+#ejercicio29
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("3vasos">"vaso")  #mostrar "false"
+
+#ejercicio30
+#              10        20        30
+#    0123456789012345678901234567890123456
+msg="1234567890qazwsxedcrfvtgbyhnujmikolpñ"
+print("lentes"<"calculadora")  #mostrar "false"
